@@ -24,6 +24,5 @@ Screenshots:
 - Font: [Fira Code Nerd Font](https://www.nerdfonts.com/font-downloads)
 - File Icon Theme:
   [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- Project: [cthrice](https://github.com/calestialgem/cthrice)
 
 **Enjoy!**
